@@ -1,3 +1,4 @@
 # Simple-Calculations
 Simple Calculations With C#
-CONFLICT!!!
+Conflict Resolved
+
