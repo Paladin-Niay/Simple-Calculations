@@ -1,0 +1,9 @@
+c:\users\tania\documents\visual studio 2015\Projects\Simple-Calculations\Area\bin\Debug\Area.exe.config
+c:\users\tania\documents\visual studio 2015\Projects\Simple-Calculations\Area\bin\Debug\Area.exe
+c:\users\tania\documents\visual studio 2015\Projects\Simple-Calculations\Area\bin\Debug\Area.pdb
+c:\users\tania\documents\visual studio 2015\Projects\Simple-Calculations\Area\obj\Debug\Area.csprojResolveAssemblyReference.cache
+c:\users\tania\documents\visual studio 2015\Projects\Simple-Calculations\Area\obj\Debug\Area.exe
+c:\users\tania\documents\visual studio 2015\Projects\Simple-Calculations\Area\obj\Debug\Area.pdb
+C:\Users\Krasi\Documents\Visual Studio 2015\Projects\Simple-Calculations\Area\bin\Debug\Area.exe.config
+C:\Users\Krasi\Documents\Visual Studio 2015\Projects\Simple-Calculations\Area\obj\Debug\Area.exe
+C:\Users\Krasi\Documents\Visual Studio 2015\Projects\Simple-Calculations\Area\obj\Debug\Area.pdb
