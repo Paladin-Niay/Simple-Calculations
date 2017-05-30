@@ -1,0 +1,9 @@
+c:\users\tania\documents\visual studio 2015\Projects\Simple-Calculations\Circle\bin\Debug\Circle.exe.config
+c:\users\tania\documents\visual studio 2015\Projects\Simple-Calculations\Circle\bin\Debug\Circle.exe
+c:\users\tania\documents\visual studio 2015\Projects\Simple-Calculations\Circle\bin\Debug\Circle.pdb
+c:\users\tania\documents\visual studio 2015\Projects\Simple-Calculations\Circle\obj\Debug\Circle.csprojResolveAssemblyReference.cache
+c:\users\tania\documents\visual studio 2015\Projects\Simple-Calculations\Circle\obj\Debug\Circle.exe
+c:\users\tania\documents\visual studio 2015\Projects\Simple-Calculations\Circle\obj\Debug\Circle.pdb
+C:\Users\Krasi\Documents\Visual Studio 2015\Projects\Simple-Calculations\Circle\bin\Debug\Circle.exe.config
+C:\Users\Krasi\Documents\Visual Studio 2015\Projects\Simple-Calculations\Circle\obj\Debug\Circle.exe
+C:\Users\Krasi\Documents\Visual Studio 2015\Projects\Simple-Calculations\Circle\obj\Debug\Circle.pdb

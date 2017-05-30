@@ -1,0 +1,8 @@
+c:\users\tania\documents\visual studio 2015\Projects\Simple-Calculations\GlobalLocation\bin\Debug\GlobalLocation.exe.config
+c:\users\tania\documents\visual studio 2015\Projects\Simple-Calculations\GlobalLocation\bin\Debug\GlobalLocation.exe
+c:\users\tania\documents\visual studio 2015\Projects\Simple-Calculations\GlobalLocation\bin\Debug\GlobalLocation.pdb
+c:\users\tania\documents\visual studio 2015\Projects\Simple-Calculations\GlobalLocation\obj\Debug\GlobalLocation.exe
+c:\users\tania\documents\visual studio 2015\Projects\Simple-Calculations\GlobalLocation\obj\Debug\GlobalLocation.pdb
+C:\Users\Krasi\Documents\Visual Studio 2015\Projects\Simple-Calculations\GlobalLocation\bin\Debug\GlobalLocation.exe.config
+C:\Users\Krasi\Documents\Visual Studio 2015\Projects\Simple-Calculations\GlobalLocation\obj\Debug\GlobalLocation.exe
+C:\Users\Krasi\Documents\Visual Studio 2015\Projects\Simple-Calculations\GlobalLocation\obj\Debug\GlobalLocation.pdb

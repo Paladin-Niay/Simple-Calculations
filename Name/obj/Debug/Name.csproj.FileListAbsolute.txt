@@ -1,0 +1,8 @@
+c:\users\tania\documents\visual studio 2015\Projects\Simple-Calculations\Name\bin\Debug\Name.exe.config
+c:\users\tania\documents\visual studio 2015\Projects\Simple-Calculations\Name\bin\Debug\Name.exe
+c:\users\tania\documents\visual studio 2015\Projects\Simple-Calculations\Name\bin\Debug\Name.pdb
+c:\users\tania\documents\visual studio 2015\Projects\Simple-Calculations\Name\obj\Debug\Name.exe
+c:\users\tania\documents\visual studio 2015\Projects\Simple-Calculations\Name\obj\Debug\Name.pdb
+C:\Users\Krasi\Documents\Visual Studio 2015\Projects\Simple-Calculations\Name\bin\Debug\Name.exe.config
+C:\Users\Krasi\Documents\Visual Studio 2015\Projects\Simple-Calculations\Name\obj\Debug\Name.exe
+C:\Users\Krasi\Documents\Visual Studio 2015\Projects\Simple-Calculations\Name\obj\Debug\Name.pdb

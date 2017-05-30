@@ -1,0 +1,5 @@
+c:\users\tania\documents\visual studio 2015\Projects\Simple-Calculations\InchesToCentimeters\bin\Debug\InchesToCentimeters.exe.config
+c:\users\tania\documents\visual studio 2015\Projects\Simple-Calculations\InchesToCentimeters\bin\Debug\InchesToCentimeters.exe
+c:\users\tania\documents\visual studio 2015\Projects\Simple-Calculations\InchesToCentimeters\bin\Debug\InchesToCentimeters.pdb
+c:\users\tania\documents\visual studio 2015\Projects\Simple-Calculations\InchesToCentimeters\obj\Debug\InchesToCentimeters.exe
+c:\users\tania\documents\visual studio 2015\Projects\Simple-Calculations\InchesToCentimeters\obj\Debug\InchesToCentimeters.pdb
