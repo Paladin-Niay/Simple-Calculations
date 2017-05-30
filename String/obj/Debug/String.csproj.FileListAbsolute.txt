@@ -1,0 +1,5 @@
+c:\users\tania\documents\visual studio 2015\Projects\Simple-Calculations\String\bin\Debug\String.exe.config
+c:\users\tania\documents\visual studio 2015\Projects\Simple-Calculations\String\bin\Debug\String.exe
+c:\users\tania\documents\visual studio 2015\Projects\Simple-Calculations\String\bin\Debug\String.pdb
+c:\users\tania\documents\visual studio 2015\Projects\Simple-Calculations\String\obj\Debug\String.exe
+c:\users\tania\documents\visual studio 2015\Projects\Simple-Calculations\String\obj\Debug\String.pdb

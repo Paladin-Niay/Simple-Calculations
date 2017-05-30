@@ -1,0 +1,5 @@
+c:\users\tania\documents\visual studio 2015\Projects\Simple-Calculations\Trapetz\bin\Debug\Trapetz.exe.config
+c:\users\tania\documents\visual studio 2015\Projects\Simple-Calculations\Trapetz\bin\Debug\Trapetz.exe
+c:\users\tania\documents\visual studio 2015\Projects\Simple-Calculations\Trapetz\bin\Debug\Trapetz.pdb
+c:\users\tania\documents\visual studio 2015\Projects\Simple-Calculations\Trapetz\obj\Debug\Trapetz.exe
+c:\users\tania\documents\visual studio 2015\Projects\Simple-Calculations\Trapetz\obj\Debug\Trapetz.pdb

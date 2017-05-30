@@ -1,0 +1,12 @@
+c:\users\tania\documents\visual studio 2015\Projects\Simple-Calculations\Triangle\bin\Debug\Triangle.exe.config
+c:\users\tania\documents\visual studio 2015\Projects\Simple-Calculations\Triangle\bin\Debug\Triangle.exe
+c:\users\tania\documents\visual studio 2015\Projects\Simple-Calculations\Triangle\bin\Debug\Triangle.pdb
+c:\users\tania\documents\visual studio 2015\Projects\Simple-Calculations\Triangle\obj\Debug\Triangle.csprojResolveAssemblyReference.cache
+c:\users\tania\documents\visual studio 2015\Projects\Simple-Calculations\Triangle\obj\Debug\Triangle.exe
+c:\users\tania\documents\visual studio 2015\Projects\Simple-Calculations\Triangle\obj\Debug\Triangle.pdb
+C:\Users\Krasi\Documents\Visual Studio 2015\Projects\Simple-Calculations\Triangle\bin\Debug\Triangle.exe.config
+C:\Users\Krasi\Documents\Visual Studio 2015\Projects\Simple-Calculations\Triangle\obj\Debug\Triangle.exe
+C:\Users\Krasi\Documents\Visual Studio 2015\Projects\Simple-Calculations\Triangle\obj\Debug\Triangle.pdb
+C:\Users\Krasi\Documents\Visual Studio 2015\Projects\Simple-Calculations\Triangle\bin\Debug\Triangle.exe
+C:\Users\Krasi\Documents\Visual Studio 2015\Projects\Simple-Calculations\Triangle\bin\Debug\Triangle.pdb
+C:\Users\Krasi\Documents\Visual Studio 2015\Projects\Simple-Calculations\Triangle\obj\Debug\Triangle.csprojResolveAssemblyReference.cache

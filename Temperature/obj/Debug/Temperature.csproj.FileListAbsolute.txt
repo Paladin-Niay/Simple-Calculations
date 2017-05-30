@@ -1,0 +1,8 @@
+c:\users\tania\documents\visual studio 2015\Projects\Simple-Calculations\Temperature\bin\Debug\Temperature.exe.config
+c:\users\tania\documents\visual studio 2015\Projects\Simple-Calculations\Temperature\bin\Debug\Temperature.exe
+c:\users\tania\documents\visual studio 2015\Projects\Simple-Calculations\Temperature\bin\Debug\Temperature.pdb
+c:\users\tania\documents\visual studio 2015\Projects\Simple-Calculations\Temperature\obj\Debug\Temperature.exe
+c:\users\tania\documents\visual studio 2015\Projects\Simple-Calculations\Temperature\obj\Debug\Temperature.pdb
+C:\Users\Krasi\Documents\Visual Studio 2015\Projects\Simple-Calculations\Temperature\bin\Debug\Temperature.exe.config
+C:\Users\Krasi\Documents\Visual Studio 2015\Projects\Simple-Calculations\Temperature\obj\Debug\Temperature.exe
+C:\Users\Krasi\Documents\Visual Studio 2015\Projects\Simple-Calculations\Temperature\obj\Debug\Temperature.pdb
