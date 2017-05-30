@@ -1,4 +1,4 @@
 # Simple-Calculations
 Simple Calculations With C#
-Conflict Resolved
+Branching out is the way to go.
 
